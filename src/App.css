@@ -1,0 +1,23 @@
+.app {
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  padding: 5px;
+  margin: 5px;
+}
+
+.users {
+  display: flex;
+  flex-direction: row;
+  padding: 5px;
+  margin: 5px;
+}
+
+.user-details {
+  display: flex;
+  flex-direction: row;
+  padding: 5px;
+  margin: 5px;
+  border: 2px solid black;
+  flex-direction: column;
+}
